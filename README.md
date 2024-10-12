@@ -11,8 +11,11 @@ Paper: [arxiv](https://arxiv.org/abs/2410.08100)
 ## Quantization Results of CrackSegDiff
 
 <div align="center">
+
+  <img width=680 src="https://github.com/sky-visionX/CrackSegDiff/blob/CrackSegdiff/1.png">
+    <p><em>The overall architecture of CrackSegDiff.</em></p>
+    
   <table>
-    <caption>Comparison of CrackSegDiff with state-of-the-art grayscale and depth fused segmentors on the FIND Dataset.</caption>
     <thead>
       <tr>
         <th rowspan="2">模型</th>
@@ -143,8 +146,10 @@ Paper: [arxiv](https://arxiv.org/abs/2410.08100)
       </tr>
     </tbody>
   </table>
+  <p><em>Comparison of CrackSegDiff with state-of-the-art grayscale and depth fused segmentors on the FIND Dataset.</em></p>
+  
   <img width=680 src="https://github.com/sky-visionX/CrackSegDiff/blob/CrackSegdiff/2.png">
-    <p><em>The overall architecture of CrackSegDiff.</em></p>
+    <p><em>Qualitative comparison of CrackSegDiff with state-of-the-art segmentation methods. From left to right, the metrics used are F1-Score, IoU, and BF-Score.</em></p>
 </div>
 
 ## 1.Requirement
