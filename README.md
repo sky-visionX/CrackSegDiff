@@ -173,7 +173,7 @@ Paper: [arxiv](https://arxiv.org/abs/2410.08100)
 In default, the samples will be saved at `` ./results/`` 
 
 ## Thanks
-Code copied a lot from [MedSegDiff](https://github.com/MedicineToken/MedSegDiff), [guided-diffusion](https://github.com/openai/guided-diffusion), [SegDiff](https://github.com/tomeramit/SegDiff), [VM-UNet](https://github.com/JCruan519/VM-UNet), 
+Code copied a lot from [MedSegDiff](https://github.com/MedicineToken/MedSegDiff), [guided-diffusion](https://github.com/openai/guided-diffusion), [SegDiff](https://github.com/tomeramit/SegDiff), [VM-UNet](https://github.com/JCruan519/VM-UNet)。
 ## Cite
 Please cite
 ~~~
